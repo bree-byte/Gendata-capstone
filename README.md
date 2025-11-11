@@ -22,7 +22,7 @@ Without clear analysis of trends by age, sex, location, and time, Kenya's mental
 
 ## Featured Work
 
-📊 **[Interactive Tableau Dashboard: Sales Performance & Regional Insights]((https://public.tableau.com/app/profile/brenda.chebet/viz/SuicideAnalysis_17627874834470/Dashboard1?publish=yes))**  
+📊 **[Interactive Tableau Dashboard: Sales Performance & Regional Insights[(https://public.tableau.com/app/profile/brenda.chebet/viz/SuicideAnalysis_17627874834470/Dashboard1?publish=yes)**  
 *Dynamic visualization with drill-down filters, trend analysis, and actionable KPIs. Explore the story behind the numbers.*
 
 📝 **[Hashnode Article: Building Scalable APIs with Node.js & Express](https://brendachebyte.hashnode.dev/data-driven-insights-building-an-interactive-suicide-mortality-dashboard-for-kenya-and-africa?showSharer=true)**  
