@@ -20,6 +20,21 @@ Despite increasing awareness, self-harm and suicide-related deaths continue to c
 
 Without clear analysis of trends by age, sex, location, and time, Kenya's mental health response remains reactive rather than preventive. This project transforms raw mortality data into actionable intelligence that can save lives.
 
+## Featured Work
+
+📊 **[Interactive Tableau Dashboard: Sales Performance & Regional Insights]((https://public.tableau.com/app/profile/brenda.chebet/viz/SuicideAnalysis_17627874834470/Dashboard1?publish=yes))**  
+*Dynamic visualization with drill-down filters, trend analysis, and actionable KPIs. Explore the story behind the numbers.*
+
+📝 **[Hashnode Article: Building Scalable APIs with Node.js & Express](https://brendachebyte.hashnode.dev/data-driven-insights-building-an-interactive-suicide-mortality-dashboard-for-kenya-and-africa?showSharer=true)**  
+*In-depth guide covering authentication, rate limiting, and deployment best practices. Includes full GitHub repo.*
+
+🚀 **[Lovable.dev MVP: AI-Powered Task Tracker (Built in <2 Hours)](YOUR_LOVABLE_URL)**  
+*Prompt-to-app in minutes using Lovable. Features real-time sync, dark mode, and GitHub integration. Try the live demo!*
+
+---
+
+*🔗 Replace `YOUR_..._URL` with your actual links. Feel free to fork, star, or reach out for collabs!*
+
 ---
 
 ##  Tools & Technologies
