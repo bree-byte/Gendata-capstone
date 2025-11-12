@@ -28,7 +28,7 @@ Without clear analysis of trends by age, sex, location, and time, Kenya's mental
 📝 **[Hashnode Article: Building Scalable APIs with Node.js & Express](https://brendachebyte.hashnode.dev/data-driven-insights-building-an-interactive-suicide-mortality-dashboard-for-kenya-and-africa?showSharer=true)**  
 *In-depth guide covering authentication, rate limiting, and deployment best practices. Includes full GitHub repo.*
 
-🚀 **[Lovable.dev MVP: AI-Powered Task Tracker (Built in <2 Hours)](YOUR_LOVABLE_URL)**  
+🚀 **[Lovable.dev MVP: AI-Powered Task Tracker (Built in <2 Hours)](https://kenya-mind-echo.lovable.app)**  
 *Prompt-to-app in minutes using Lovable. Features real-time sync, dark mode, and GitHub integration. Try the live demo!*
 
 ---
